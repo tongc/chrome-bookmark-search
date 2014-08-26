@@ -1,7 +1,5 @@
-This is the source code of the Bookmark Search extension for the web browser
-Google Chrome.
-
-It is published on the Chrome Web Store:
-https://chrome.google.com/webstore/detail/bookmark-search/hhmokalkpaiacdofbcddkogifepbaijk
-
-The license for this source code is provided in the file LICENSE.
+forked from https://github.com/alvinhochun/chrome-bookmark-search
+tailor to suit my own needs
+such as providing context
+e.g. when type dev on ominibox, it searches only the dev folder of bookmark. 
+useful as if i type employer initial letters and it searches the bookmarks within employer folder.
